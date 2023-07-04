@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbc715e34463442db6084f10f54badab, type: 3}
+  m_Name: Body_Lazer
+  m_EditorClassIdentifier: 
+  ModuleTypeId: 0
+  ProjectileTypeId: 0
+  SpeedModifyer: 1
+  DamageModifyer: 1
+  RangeModifyer: 1
+  ModuleSprite: {fileID: 0}
